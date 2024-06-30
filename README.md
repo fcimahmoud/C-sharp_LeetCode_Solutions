@@ -18,4 +18,8 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
