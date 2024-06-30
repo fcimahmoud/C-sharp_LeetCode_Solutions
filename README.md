@@ -7,3 +7,15 @@ This repository contains my solutions to various LeetCode problems, all implemen
 LeetCode is a popular platform for practicing coding interview questions and improving problem-solving skills. As I work through LeetCode problems, I'm documenting my solutions in this repository to track my progress and share my approach with others.
 
 Feel free to explore the solutions and provide any feedback or suggestions for improvement. I hope this repository helps you in your own LeetCode journey!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
