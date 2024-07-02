@@ -24,13 +24,23 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | ------- |
 | [0009-palindrome-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
