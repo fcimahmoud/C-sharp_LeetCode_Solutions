@@ -24,8 +24,13 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | ------- |
 | [0009-palindrome-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
