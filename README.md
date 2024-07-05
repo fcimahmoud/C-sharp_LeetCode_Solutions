@@ -35,6 +35,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
@@ -69,4 +70,9 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
