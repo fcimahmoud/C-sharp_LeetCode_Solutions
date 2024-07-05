@@ -16,6 +16,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
