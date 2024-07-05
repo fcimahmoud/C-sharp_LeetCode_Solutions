@@ -15,6 +15,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | ------- |
 | [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,5 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
