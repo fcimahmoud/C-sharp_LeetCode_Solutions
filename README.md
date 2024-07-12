@@ -18,6 +18,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0007-reverse-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## String
