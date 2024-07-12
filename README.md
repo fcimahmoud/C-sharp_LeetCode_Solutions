@@ -19,6 +19,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -101,4 +103,8 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
