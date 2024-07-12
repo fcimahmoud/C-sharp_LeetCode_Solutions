@@ -34,6 +34,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0066-plus-one](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -92,4 +93,12 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
