@@ -14,6 +14,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0035-search-insert-position) |
@@ -43,6 +44,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
 ## Bit Manipulation
@@ -79,4 +81,8 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
