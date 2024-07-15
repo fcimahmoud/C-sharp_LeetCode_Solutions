@@ -95,6 +95,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0185-department-top-three-salaries) |
 ## Dynamic Programming
 |  |
 | ------- |
