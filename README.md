@@ -21,6 +21,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0066-plus-one](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0004-median-of-two-sorted-arrays](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
