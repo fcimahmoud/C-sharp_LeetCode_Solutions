@@ -24,6 +24,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0027-remove-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String Matching
 |  |
 | ------- |
