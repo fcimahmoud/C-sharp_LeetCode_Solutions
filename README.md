@@ -25,11 +25,13 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -121,4 +124,9 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
