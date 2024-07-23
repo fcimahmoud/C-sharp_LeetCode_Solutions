@@ -1,12 +1,15 @@
 public class Solution {
     public bool ContainsNearbyDuplicate(int[] nums, int k) {
+        List <int> list = new List<int>();
         for (int i = 0; i < nums.Length; i++)
         {
-            for (int j = i+1; j < nums.Length && j <= i+k ; j++)
-            {
-                if (nums[i] == nums[j])
-                    return true;
-            }
+            if(list.Contains(nums[i]))
+                return true;
+            list.Add(nums[i]);
+
+            if(list.Count > k)
+                list.Remove(nums[i - k]);
+
         }
         return false;
     }
