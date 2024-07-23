@@ -27,6 +27,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +137,8 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
