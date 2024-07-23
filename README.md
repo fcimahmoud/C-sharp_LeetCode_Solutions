@@ -50,6 +50,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0070-climbing-stairs](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | ------- |
 | [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
