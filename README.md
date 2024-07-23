@@ -32,6 +32,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0001-two-sum](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0069-sqrtx](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
