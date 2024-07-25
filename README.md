@@ -52,6 +52,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 | [0168-excel-sheet-column-title](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0258-add-digits) |
 ## Trie
 |  |
 | ------- |
@@ -147,4 +149,8 @@ Feel free to explore the solutions and provide any feedback or suggestions for i
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/fcimahmoud/C-sharp_LeetCode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
